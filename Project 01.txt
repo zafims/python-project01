@@ -1,0 +1,13 @@
+Project name: Password Generator
+Project Summary: This python project collect data from the user on the number of passwords and their lengths and output a collection of passwords with random characters.
+Project Features:
+Password Generator
+=================
+Number of Passwords: 5
+Password Length: 7
+Here is your Passwords:
+GRd$62R
+liW@461
+pRewx8!
+tE#wQ1d
+E#qowQ1
